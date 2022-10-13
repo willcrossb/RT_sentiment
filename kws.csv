@@ -1,28 +1,24 @@
-Indicator
-Better financially
-Worse financially
-Business conditions
-Business environment
-State of the economy
-Unemployment
-Economic Depression
-Government Economic Policy
-Out of work
-Economic policy
-Interest rates
-Prices go up
-Rising prices
-Disposable income
-Incomes
-Family income
-buy a house
-Sell a house
-Buy a car
-Gasoline prices
-Own a home
-Market value of home
-House prices
-Inflation
-Standard of living
-Stock market
-Cost of living
+Indicator,Category
+Better financially,personal
+Worse financially,personal
+Business conditions,general
+Business environment,general
+State of the economy,general
+Unemployment,general
+Economic Depression,general
+Government Economic Policy,policy
+Out of work,general
+Economic policy,policy
+Interest rates,policy
+Rising prices,prices
+Disposable income,personal
+Incomes,personal
+Family income,personal
+Gasoline prices,prices
+Own a home,personal
+Market value of home,personal
+House prices,personal
+Inflation,prices
+Standard of living,general
+Stock market,general
+Cost of living,prices
