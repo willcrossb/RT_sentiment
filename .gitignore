@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_*
+temp/
+data/
+results/
+charts/
+archive/
+config.py
+unused_code.ipynb
 # C extensions
 *.so
 
@@ -127,3 +135,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+BERT_class_test.ipynb
